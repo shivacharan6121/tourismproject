@@ -1,0 +1,335 @@
+.main{
+    width: 1340px;
+    height: 2220px;
+    border: 5px;
+    margin-top: -23px;
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+}
+.main h1{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    color: black;
+    text-decoration: none;
+}
+.slide1{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: -20px;
+    transition: transform .2s;
+}
+.slide1:hover{
+    transform: scale(0.9);
+}
+.slide1 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part1{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 50px;
+    background-image: url(adilabad/basara.jpg);
+    
+} 
+div .part2{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part3{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+button{
+    width: 200px;
+    height: 30px;
+    float: left;
+    size: 20px;
+    border-radius: 50px;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 100%, #000000 100%);
+    margin-top: 40px;
+} 
+button i{
+    color: white;
+    font-size: 23px;
+}
+a{
+    font-size: 23px;
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    filter: opacity(2);
+
+}
+.slide2{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.slide2:hover{
+    transform: scale(0.9);
+}
+.slide2 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part4{
+    width: 250px;
+    height: 250px;
+    float: left;
+    background-image: url(adilabad/etu.jpg);
+    border-radius: 50px;
+    
+} 
+div .part5{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part6{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+.slide3{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.slide3:hover{
+    transform: scale(0.9);
+}
+.slide3 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part7{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 50px;
+    background-image: url(adilabad/pochera.jpg);
+    
+} 
+div .part8{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part9{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+.slide4{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.slide4:hover{
+    transform: scale(0.9);
+}
+.slide4 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part10{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 50px;
+    background-image: url(adilabad/jai.jpg);
+    
+} 
+div .part11{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part12{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+.slide5{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.slide5:hover{
+    transform: scale(0.9);
+}
+.slide5 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part13{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 50px;
+    background-image: url(adilabad/kadam.png);
+    
+} 
+div .part14{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part15{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+.slide6{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.slide6:hover{
+    transform: scale(0.9);
+}
+.slide6 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part16{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 50px;
+    background-image: url(adilabad/prana.jpg);
+    
+} 
+div .part17{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part18{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+.slide7{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.slide7:hover{
+    transform: scale(0.9);
+}
+.slide7 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part19{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 50px;
+    background-image: url(adilabad/sivaram.jpg);
+    
+} 
+div .part20{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part21{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+.slide8{
+    width: 1340px;
+    height: 261px;
+    box-sizing: border-box;
+    border: 5px solid black;
+    size: 20px;
+    border-radius: 50px;
+    margin-top: 10px;
+    transition: transform .2s;
+}
+.slide8:hover{
+    transform: scale(0.9);
+}
+.slide8 div{
+    margin: 1px;
+    margin-top: 0px;
+
+}
+div .part22{
+    width: 250px;
+    height: 250px;
+    float: left;
+    border-radius: 50px;
+    background-image: url(adilabad/saptha.jpg);
+    
+} 
+div .part23{
+    width: 824px;
+    height: 250px;
+    float: left;  
+} 
+div .part24{
+    width: 250px;
+    height: 250px;
+    float: left;
+
+} 
+
+
